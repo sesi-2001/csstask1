@@ -1,0 +1,129 @@
+.cl1,.cl2,.cl3,.cl4,.cl5,.cl6,.cl7{
+    display: flex;
+}
+.el1{
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+    background-color:lightpink;
+    text-align: center;
+}
+.el2{
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+    background-color:bisque;
+    text-align: center;
+}
+.el3{
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+    background-color:silver;
+    text-align: center;
+}
+.el4{
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+    background-color: skyblue;
+    text-align: center;
+}
+.el5{
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+    background-color:lightcyan;
+    text-align: center;
+}
+.el6{
+    margin: 30px;
+    padding: 20px;
+    width: 50%;
+    background-color:lightsalmon;
+    text-align: center;
+}
+.el7{
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    width: 25%;
+    background-color: silver;
+}
+.el8{
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    width: 25%;
+    background-color: skyblue;
+}
+.el9{
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    width: 25%;
+    background-color:lightgreen;
+}
+.el10{
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    width: 25%;
+    background-color: gainsboro;
+}
+.el11{
+    width: 25%;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    background-color: lightyellow;
+}
+.el12{
+    width: 25%;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    background-color: gray;
+}
+.el13{
+    width: 25%;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    background-color: skyblue;
+}
+.el14{
+    width: 25%;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    background-color: lightpink;
+}
+.el15{
+    width: 50%;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    background-color: skyblue;
+}
+.el16{
+    width: 50%;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    background-color: yellow;
+}
+.el17{
+    width: 50%;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    background-color: silver;
+}
+.el18{
+    width: 50%;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    background-color: lightcoral;
+}
